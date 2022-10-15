@@ -2,5 +2,5 @@
 
 
 <p align="center">
-# Hi, i'am Ezukau !
+<h1="Hi, i'am Ezukau !" width="100px"/>
 </p>
